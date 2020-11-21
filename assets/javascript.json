@@ -1,0 +1,93 @@
+[
+  {
+    "1": "Which type of JavaScript language is ",
+    "2": "Which one of the following also known as Conditional Expression:",
+    "3": "When interpreter encounters an empty statements, what it will do:",
+    "4": "The \"function\" and \" var\" are known as:",
+    "5": "In the following given syntax of the switch statement, the Expression is compared with the labels using which one of the following operators?\n\nswitch(expression)  \n{  \n    statements  \n} ",
+    "6": "Which of the following variables takes precedence over the others if the names are the same?",
+    "7": "Which one of the following is the correct way for calling the JavaScript code?",
+    "8": "Which of the following type of a variable is volatile?",
+    "9": "When there is an indefinite or an infinite value during an arithmetic computation in a program, then JavaScript prints____",
+    "10": "In the JavaScript, which one of the following is not considered as an error:"
+
+  },
+  {
+    "1": {
+      "a": "Object-Oriented",
+      "b": "Object-Based",
+      "c": "Assembly-language",
+      "d": "High-level"
+    },
+    "2": {
+      "a": "Alternative to if-else",
+      "b": "Switch statement",
+      "c": "If-then-else statement",
+      "d": "immediate if"
+    },
+    "3": {
+      "a": "Shows a warning",
+      "b": "Prompts to complete the statement",
+      "c": "Throws an error",
+      "d": "Ignores the statements"
+    },
+    "4": {
+      "a": "Keywords",
+      "b": "Data types",
+      "c": "Declaration statements",
+      "d": "Prototypes"
+    },
+    "5": {
+      "a": "===",
+      "b": "equals",
+      "c": "==",
+      "d": "equals"
+    },
+    "6": {
+      "a": "Global variable",
+      "b": "The local element",
+      "c": "The two of the above",
+      "d": "None of the above"
+    },
+    "7": {
+      "a": "Preprocessor",
+      "b": "Triggering Event",
+      "c": "RMI",
+      "d": "Function/Method"
+    },
+    "8": {
+      "a": "Mutable variable",
+      "b": "Dynamic variable",
+      "c": "Volatile variable",
+      "d": "Immutable variable"
+    },
+    "9": {
+      "a": "Prints an exception error",
+      "b": "Prints an overflow error",
+      "c": "Displays \"Infinity\"",
+      "d": "Prints the value as such"
+    },
+    "10": {
+      "a": "Syntax error",
+      "b": "Missing of semicolons",
+      "c": "Division by zero",
+      "d": "Missing of Bracket"
+    }
+  },
+  {
+    "1": "Object-Based",
+    "2": "immediate if",
+    "3": "Ignores the statements",
+    "4": "Declaration statements",
+    "5": "===",
+    "6": "The local element",
+    "7": "Function/Method",
+    "8": "Mutable variable",
+    "9": "Displays \"Infinity\"",
+    "10": "Division by zero"
+  },
+  {
+    "credit": "https://www.javatpoint.com/javascript-mcq"
+  }
+
+]

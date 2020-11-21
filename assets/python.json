@@ -1,0 +1,87 @@
+[
+  {
+    "1": "Who developed the Python language?",
+    "2":"In which year was the Python language developed?",
+    "3":"Which of the following declarations is incorrect?" ,
+    "4": "Why does the name of local variables start with an underscore discouraged?",
+    "5": "Which of the following is not a keyword in Python language?",
+    "6":"Which of the following operators is the correct option for power(ab)?",
+    "7": "Which one of the following has the same precedence level?",
+    "8": "Which of the following is correctly evaluated for this function?\npow(x,y,z)  ",
+    "9": "Study the following function:\nimport math  \nabs(math.sqrt(36))  \n",
+    "10": "What will be the output of this function?\nall([2,4,0,6])  "
+  },
+  {
+    "1":{
+          "a":"Zim Den",
+          "b":"Guido van Rossum",
+          "c":"Niene Stom",
+          "d":"Wick van Rossum"
+        },
+    "2":{
+      "a":"1995",
+      "b":"1972",
+      "c":"1981",
+      "d":"1989"
+    },
+    "3":{
+      "a":"_x = 2",
+      "b":"__x = 3",
+      "c":"__xyz__ = 5",
+      "d":"None of these"
+    },
+    "4":{
+      "a":"To identify the variable",
+      "b":"It confuses the interpreter",
+      "c":"It indicates a private variable ",
+      "d":"None of these\n"
+    },
+    "5":{
+    "a":"val",
+    "b":"raise",
+    "c":"try",
+    "d":"with"
+  },"6":{
+    "a":"a ^ b",
+    "b":"a**b",
+    "c":"a ^ ^ b",
+    "d":"a ^ * b"
+  },"7":{
+    "a":"Division, Power, Multiplication",
+    "b":"Division and Multiplication",
+    "c":"Subtraction and Division",
+    "d":"Power and Division"
+  },"8":{
+    "a":"(x**y) / z",
+    "b":"(x / y) * z",
+    "c":"(x**y) % z",
+    "d":"(x / y) / z"
+  },"9":{
+    "a":"Error",
+    "b":"-6",
+    "c":"6",
+    "d":"6.0"
+  },"10":{
+    "a":"False",
+    "b":"True",
+    "c":"0",
+    "d":"Invalid Code"
+  }
+  },
+  {
+    "1": "Guido van Rossum",
+    "2": "1989",
+    "3": "None of these",
+    "4": "It indicates a private variable ",
+    "5": "val",
+    "6": "a**b",
+    "7": "Division and Multiplication",
+    "8": "(x**y) % z",
+    "9": "6.0",
+    "10": "False"
+
+  },
+  {
+    "credit": "https://www.javatpoint.com/python-mcq"
+  }
+]
