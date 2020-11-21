@@ -1,6 +1,27 @@
 # quiz_app
 
-A new Flutter application.
+Programming Quiz App using Flutter dart all questions are taken from Javatpoint.
+
+# SnapShots of App
+
+![](snapshots/snap1.png)
+# Welcome Page
+
+![](snapshots/snap2.png)
+# Quiz Select Page
+
+![](snapshots/snap3.png)
+# Quiz Page
+
+![](snapshots/snap4.png)
+
+![](snapshots/snap5.png)
+
+# Score Page
+
+
+
+
 
 ## Getting Started
 
